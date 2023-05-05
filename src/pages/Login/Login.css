@@ -1,0 +1,45 @@
+.login-page {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-top: 104px;
+  align-items: center;
+  max-width: 490px;
+}
+
+.login-page-title {
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.login-form {
+  margin-top: 88px;
+  width: 100%;
+}
+
+.login-item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  width: 100%;
+}
+
+.input-title {
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 15px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #000000;
+}
+
+.signInInputs {
+  display: flex;
+  flex-direction: column;
+  gap: 56px;
+}

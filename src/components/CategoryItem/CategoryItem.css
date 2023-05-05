@@ -1,0 +1,17 @@
+.category-item {
+  background: inherit;
+  border-radius: 30px;
+  margin-bottom: 15px;
+}
+
+.category-item-title {
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 13px;
+  line-height: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  outline: none;
+  margin-left: 13px;
+  color: var(--brownColor);
+}

@@ -1,0 +1,34 @@
+.categories {
+  display: flex;
+  background: var(--whiteColor);
+  flex-direction: column;
+  border-radius: 30px;
+  padding-top: 16px;
+  padding-bottom: 62px;
+  padding-right: 19px;
+  margin-top: 14px;
+}
+
+.categories-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.categories-title {
+  font-family: 'Lora';
+  font-weight: 400;
+  font-size: 20px;
+  margin-left: 12px;
+  margin-bottom: 13px;
+  line-height: 26px;
+  text-transform: uppercase;
+  color: var(--blackColor);
+}
+
+.category-item-line:not(:last-child) {
+  margin-bottom: 16px;
+}
+
+.categories-title-line {
+  margin-bottom: 19px;
+}

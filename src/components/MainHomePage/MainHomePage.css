@@ -1,0 +1,15 @@
+.home-page-main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  padding: 0 10px;
+}
+
+.home-page-main-elements {
+  display: flex;
+}
+
+.categories-big {
+  min-height: 423px;
+  margin-top: -40px !important;
+}
